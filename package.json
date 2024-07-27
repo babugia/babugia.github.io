@@ -1,0 +1,22 @@
+{
+  "name": "babugia.github.io",
+  "version": "1.0.0",
+  "description": "Lista de presentes casamento Guilherme e Jussara",
+  "main": "index.html",
+  "scripts": {
+    "start": "sirv --dev --no-clear --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babugia/babugia.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babugia/babugia.github.io/issues"
+  },
+  "homepage": "https://github.com/babugia/babugia.github.io#readme",
+  "devDependencies": {
+    "sirv-cli": "^2.0.2"
+  }
+}
